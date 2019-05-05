@@ -36,4 +36,7 @@ jwt:
   config:
     key: zby      # 盐
     expire: 120000       #过期时间
+    
+zby:
+  name: zhaoboya
 
