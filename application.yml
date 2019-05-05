@@ -1,0 +1,26 @@
+server:
+  port: 9008
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:9999/eureka
+  instance:
+    prefer-ip-address: true
+
+spring:
+  application:
+    name: MavenProject-Elasticsearch
+
+  data:
+    elasticsearch:
+      cluster-nodes: 39.96.160.110:9300
+
+  redis:
+    host: 39.96.160.110
+
+
+
+
+
+
