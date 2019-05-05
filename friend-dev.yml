@@ -43,3 +43,7 @@ jwt:
 feign:
   hystrix:
     enabled: true
+    
+    
+zby:
+  name: zhaoboya
