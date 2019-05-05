@@ -39,4 +39,5 @@ jwt:
     key: zby
     expire: 3600000
 
-
+zby:
+  name: zhaoboya
